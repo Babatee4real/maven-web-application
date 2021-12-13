@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://54.237.133.97:8000/repository/boa-releases/</url>
+	      <url>http://54.197.78.213:8000/repository/boa-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://54.237.133.97:8000/repository/boa-snapshot/</url>
+	      <url>http://54.197.78.213:8000/repository/boa-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
